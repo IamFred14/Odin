@@ -1,0 +1,20 @@
+.primary {
+    background-color: #ffa7a7;
+    font-family: Verdana, DejaVu sans, sans-serif;
+
+}
+
+#terciary {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.primary.secondary {
+    font-size: 24px;
+}
+
+#quaternary {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: 700;
+}
